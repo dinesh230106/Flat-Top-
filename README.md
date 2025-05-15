@@ -1,4 +1,4 @@
-# EX-11 Name: DINESH KUMAR A (212223060057)
+# EX-3 Name: DINESH KUMAR A (212223060057)
 # Flat-Top sampling  using python
 # Aim
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampleing.
